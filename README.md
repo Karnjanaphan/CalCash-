@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# CalCash 
 
-Description of the app ...
+Track your money and your meals — all in one place for a balanced life.
 
 ## Demo App
 
